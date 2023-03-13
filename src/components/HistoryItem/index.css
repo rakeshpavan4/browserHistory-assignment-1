@@ -1,0 +1,27 @@
+.list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+.lists {
+  display: flex;
+  justify-content: space-between;
+}
+.image {
+  height: 15px;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.button {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 5px;
+}
+.buttons {
+  background-color: transparent;
+  border: none;
+}
+.title {
+  margin-left: 10px;
+}
